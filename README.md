@@ -1,4 +1,6 @@
-# HARDWARE_HACK_2.0_PARAM
+# Hardware Hackathon 2.0
+---
+###Conducted By Lion Circuits and PCB Cupid
 
 This Project in a Hackathon Conducted by PCBCUPID and Lion Circuits on the Theme " Journey To Mars " 
 
